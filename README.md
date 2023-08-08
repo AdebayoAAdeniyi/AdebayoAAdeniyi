@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdebayoAAdeniyi
-- 👀 I’m interested in in Data Analysis
-- 🌱 I’m currently learning SQL with Python
-- 💞️ I’m looking to collaborate on project that deals with different aspect of data analysis
-- 📫 You can reach me through my email: adebayo.adeniyi@fuoye.edu.ng and also through my Whatsapp number +2349015329313
+- 👀 I’m an expert in Data Analysis using Python programming language
+- 🌱 I’m have intermediate skills in Frontend and Backend web developemnt
+- 💞️ I have strong knowledge of Python, HTML, CSS, JavaScript and I can also make use of React, Django, Flask
+- 📫 You can reach me through my email: azeez.adebayo.adeniyi2@gmail.com and also call +18257859211
 
 <!---
 AdebayoAAdeniyi/AdebayoAAdeniyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
