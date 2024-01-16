@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdebayoAAdeniyi
-- 👀 I’m an expert in Data Analysis using Python programming language
-- 🌱 I’m have intermediate skills in Frontend and Backend web developemnt
-- 💞️ I have strong knowledge of Python, HTML, CSS, JavaScript and I can also make use of React, Django, Flask
+- 👀 I’m a Computational Chemist and a Data Scientist using the Python programming language
+- 🌱 I have strong knowledge of Python, HTML, CSS, and JavaScript and I can also make use of React, Django, Flask
+- 💞️ I have intermediate skills in Frontend and Backend web development
 - 📫 You can reach me through my email: azeez.adebayo.adeniyi2@gmail.com and also call +18257859211
 
 <!---
