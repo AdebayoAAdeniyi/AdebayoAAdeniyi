@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AdebayoAAdeniyi
+- 🌱 Currently studying computer science at University of Alberta
 - 👀 I’m a Computational Chemist and a Data Scientist using the Python programming language
 - 🌱 I have strong knowledge of Python, HTML, CSS, and JavaScript and I can also make use of React, Django, Flask
 - 💞️ I have intermediate skills in Frontend and Backend web development
