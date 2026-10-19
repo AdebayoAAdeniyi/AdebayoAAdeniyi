@@ -28,6 +28,10 @@ Computational chemist and data scientist. I build Python workflows for machine l
 
 - [FlexCLMs](https://github.com/AdebayoAAdeniyi/FlexCLMs): code for my MSc thesis on kingdom specific chemical language models for natural product generation. The repository is private until the planned publication, and access is granted on request.
 
+## Deployed project
+
+- [FINWISE](https://www.strategicfinancialbuilding.ca): a free educational financial planning web tool for Canada and the USA that I designed and deployed through my company, Strategic Financial Building. The source code is not public.
+
 ## Find me
 
 [Google Scholar](http://scholar.google.co.uk/citations?user=QDAoQt8AAAAJ) · [ORCID](http://orcid.org/0000-0003-2421-1382) · [LinkedIn](https://linkedin.com/in/adebayo-adeniyi-80976658/)
