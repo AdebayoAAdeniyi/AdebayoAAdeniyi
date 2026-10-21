@@ -14,6 +14,7 @@ Computational chemist and data scientist. I build Python workflows for machine l
 - Data and machine learning: Python, pandas, NumPy, scikit-learn, PyTorch, SQL, DuckDB, Matplotlib, seaborn
 - Cheminformatics: RDKit, SMILES processing and property calculation
 - Molecular modelling: docking, molecular dynamics, DFT, QM/MM
+- Spatial data basics: QGIS (first project)
 - Web basics: HTML, CSS and JavaScript
 
 ## Repositories
@@ -23,6 +24,7 @@ Computational chemist and data scientist. I build Python workflows for machine l
 - [PGM-projects](https://github.com/AdebayoAAdeniyi/PGM-projects): probabilistic graphical model coursework
 - [Reinforcement-Learning](https://github.com/AdebayoAAdeniyi/Reinforcement-Learning): reinforcement learning coursework
 - [SoftwareDevelopment](https://github.com/AdebayoAAdeniyi/SoftwareDevelopment): front end and back end web practice projects
+- [qgis-prairie-provinces-demo](https://github.com/AdebayoAAdeniyi/qgis-prairie-provinces-demo): a first QGIS practice project covering provincial boundaries, a Canadian projection, a table join, area calculation checked against Statistics Canada totals, and a map
 
 ## Thesis project
 
