@@ -25,7 +25,7 @@ Computational chemist and data scientist. I build Python workflows for machine l
 - [Reinforcement-Learning](https://github.com/AdebayoAAdeniyi/Reinforcement-Learning): reinforcement learning coursework
 - [SoftwareDevelopment](https://github.com/AdebayoAAdeniyi/SoftwareDevelopment): front end and back end web practice projects
 - [qgis-prairie-provinces-demo](https://github.com/AdebayoAAdeniyi/qgis-prairie-provinces-demo): a first QGIS practice project covering provincial boundaries, a Canadian projection, a table join, area calculation checked against Statistics Canada totals, and a map
-
+- [ab-test-cookie-cats-analysis](https://github.com/AdebayoAAdeniyi/ab-test-cookie-cats-analysis): a practice A/B test analysis on a public mobile game dataset of 90,189 players, with a data quality check, retention tests, confidence intervals, a bootstrap check and a power analysis. The README states its limitations, including a group size imbalance I could not explain
 ## Thesis project
 
 - [FlexCLMs](https://github.com/AdebayoAAdeniyi/FlexCLMs): code for my MSc thesis on kingdom specific chemical language models for natural product generation. The repository is private until the planned publication, and access is granted on request.
