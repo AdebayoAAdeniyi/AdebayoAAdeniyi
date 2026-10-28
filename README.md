@@ -27,6 +27,8 @@ Machine learning and data analysis
 - [Machine-learning](https://github.com/AdebayoAAdeniyi/Machine-learning): five studies from CMPUT 566 rebuilt as a tested package, with least squares, ridge, logistic and softmax regression written in NumPy. Examples: housing test MAE from 3.2963 to 2.7990 with squared features, and 92.53% test accuracy on MNIST with a linear softmax model. 14 tests.
 - [PGM-projects](https://github.com/AdebayoAAdeniyi/PGM-projects): a hidden Markov model part of speech tagger with Viterbi decoding, from CMPUT 651. On the Penn Treebank test set it tags 93.67% of words correctly (macro over sentences) against 90.09% for a most frequent tag baseline. 12 tests, including a check of Viterbi against exhaustive enumeration. The README states that results are from one corpus only.
 - [Reinforcement-Learning](https://github.com/AdebayoAAdeniyi/Reinforcement-Learning): eight chapters after Sutton and Barto, from dynamic programming to actor critic, grown out of CMPUT 655. Each experiment runs from one command. 28 tests.
+- [rl-noise-robustness](https://github.com/AdebayoAAdeniyi/rl-noise-robustness): an empirical study of how three kinds of environmental noise degrade n-step
+actor-critic learning, across four environments
 
 Bioinformatics and chemistry
 
