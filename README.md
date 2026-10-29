@@ -7,7 +7,7 @@ Computational chemist and data scientist. I build Python workflows for machine l
 - MSc in Computing Science, University of Alberta (June 2026). My thesis builds chemical language models (recurrent neural network and MolGPT style transformer) for de novo generation of natural products, trained separately on bacterial, fungal and plant metabolites.
 - PhD in Chemistry, with about ten years as a university researcher and lecturer in computational chemistry.
 - 71 peer reviewed articles on drug design, vaccine design, electrochemistry and photochemistry (h-index 18 on Google Scholar). The full list is catalogued in the scientific-research-and-publications repository below.
-- I also hold the LLQP and the Canadian Securities Course, and I run Strategic Financial Building, the company behind FINWISE.
+- I also hold the LLQP and the Canadian Securities Course, and I run Strategic Financial Building, the company behind SFBwise.
 
 ## What I work with
 
@@ -40,7 +40,7 @@ Bioinformatics and chemistry
 Web engineering and deployment
 
 - [SoftwareDevelopment](https://github.com/AdebayoAAdeniyi/SoftwareDevelopment): front end and back end web development portfolio.
-- [finwise-engineering-showcase](https://github.com/AdebayoAAdeniyi/finwise-engineering-showcase): the engineering behind FINWISE: Node.js and Express with SQLite in WAL mode, behind Nginx, run by PM2 on a DigitalOcean server in Toronto, with Cloudflare, Google Workspace, Resend for email and Playwright test suites. The FINWISE source code itself is not public.
+- [sfbwise-engineering-showcase](https://github.com/AdebayoAAdeniyi/sfbwise-engineering-showcase): the engineering behind SFBwise: Node.js and Express with SQLite in WAL mode, behind Nginx, run by PM2 on a DigitalOcean server in Toronto, with Cloudflare, Google Workspace, Resend for email and Playwright test suites. The SFBwise source code itself is not public.
 
 Short practice projects
 
@@ -53,7 +53,7 @@ Short practice projects
 
 ## Deployed project
 
-- [FINWISE](https://www.strategicfinancialbuilding.ca): a free educational financial planning web tool for Canada and the USA that I designed and deployed through my company, Strategic Financial Building. The source code is not public.
+- [SFBwise](https://www.strategicfinancialbuilding.ca): a free educational financial planning web tool for Canada and the USA that I designed and deployed through my company, Strategic Financial Building. The source code is not public.
 
 ## Find me
 
